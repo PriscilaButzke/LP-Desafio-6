@@ -17,7 +17,7 @@ Logica: quando for impar incrementa em 5 e quando for par incrementa em 1*/
 public class ex6b {
 
     public static void main(String[] args) {
-        int c =1,o,t=-1;
+        int c=1,o,t=-1;
         Scanner ler = new Scanner(System.in);
         
         System.out.println("Informe o n° da ordem");
